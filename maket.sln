@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maket", "maket\maket.csproj", "{55E729B2-AEBB-486B-9700-43C6C28D98DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E729B2-AEBB-486B-9700-43C6C28D98DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E729B2-AEBB-486B-9700-43C6C28D98DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E729B2-AEBB-486B-9700-43C6C28D98DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E729B2-AEBB-486B-9700-43C6C28D98DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A10E7D42-3CD3-4B39-863E-B60518520FEA}
+	EndGlobalSection
+EndGlobal

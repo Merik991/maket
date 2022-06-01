@@ -1,0 +1,7 @@
+﻿namespace maket
+{
+}
+
+namespace maket
+{
+}
